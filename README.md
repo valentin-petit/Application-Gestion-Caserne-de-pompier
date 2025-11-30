@@ -22,6 +22,12 @@ L'application offre un ensemble complet de fonctionnalités pour la gestion inte
 * **Administration et Droits d'Accès**
     Gestion des droits d'accès, notamment pour l'aspect « mise à jour » des données qui est réservé aux utilisateurs disposant des droits d'administrateur.
 
+## Voici quelques exemples de volets :
+
+<img width="1176" height="775" alt="tableau_de_bord" src="https://github.com/user-attachments/assets/65b76902-8f16-4785-b0e1-bb0b4bf9f531" />
+<img width="1182" height="781" alt="engins" src="https://github.com/user-attachments/assets/e8bbd559-3e2e-4b82-856e-3fdfea669208" />
+<img width="1182" height="781" alt="gestion_personnel" src="https://github.com/user-attachments/assets/c1dea967-7b9b-484d-ae2a-e1f355d3eff5" />
+
 
 ## Technologies
 
