@@ -31,6 +31,14 @@ L'application offre un ensemble complet de fonctionnalités pour la gestion inte
     * **Mode Déconnecté** : Utilisation d'un DataSet et de fichiers XML pour la sauvegarde et la manipulation des données.
 
 
+## Équipe
+
+Ce projet a été réalisé avec :
+
+* **Yann STOLL-GEYER** 
+* **Valentin JAECKEL** 
+
+
 ## Installation et Lancement
 
 Pour exécuter et contribuer au projet localement, suivez ces étapes :
