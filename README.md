@@ -23,7 +23,7 @@ L'application offre un ensemble complet de fonctionnalités pour la gestion inte
     Gestion des droits d'accès, notamment pour l'aspect « mise à jour » des données qui est réservé aux utilisateurs disposant des droits d'administrateur.
 
 
-## Architecture et Technologies
+## Technologies
 
 * **Langage & Framework** : C# avec Windows Forms (.NET) pour l'interface utilisateur.
 * **Gestion des Données** : L'application devait varier son utilisation de la base de donnée entre :
